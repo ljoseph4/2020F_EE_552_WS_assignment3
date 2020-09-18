@@ -2,10 +2,7 @@
 Understanding JDK, JRE, JVM
 
 Collaborators: Leonel Joseph, Jeffrey Monsalve
-
-
-
-
+ 
 
 1. What are JDK, JRE and JVM? It should be in your own words and not more than two unambiguous sentences for each.
 
@@ -25,4 +22,4 @@ Collaborators: Leonel Joseph, Jeffrey Monsalve
 
 
 
-## Question: How does the program data change when a program is handed from JDK to JRE to JVM? (Sample)
+# Question: How does the program data change when a program is handed from JDK to JRE to JVM? (Sample)
