@@ -22,4 +22,4 @@ Collaborators: Leonel Joseph, Jeffrey Monsalve
 
 
 
-# Question: How does the program data change when a program is handed from JDK to JRE to JVM? (Sample)
+Question: How does the program data change when a program is handed from JDK to JRE to JVM? (Sample)
