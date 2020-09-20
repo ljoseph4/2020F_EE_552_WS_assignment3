@@ -38,5 +38,6 @@ Collaborators: Leonel Joseph, Jeffrey Monsalve
 4. Modify the document at least twice each person to make it better and show your competency to do version control using github.
 
 
+Question: How Java is Portable?(Trivial Question Proposition?)
 
 Question: How does the program data change when a program is handed from JDK to JRE to JVM? (Sample)
