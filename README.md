@@ -4,7 +4,7 @@ Understanding JDK, JRE, JVM
 Collaborators: Leonel Joseph, Jeffrey Monsalve
  
 
-1. What are JDK, JRE and JVM? It should be in your own words and not more than two unambiguous sentences for each.
+11. What are JDK, JRE and JVM? It should be in your own words and not more than two unambiguous sentences for each.
 
 
 
