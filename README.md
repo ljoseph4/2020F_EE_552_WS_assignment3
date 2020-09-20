@@ -32,6 +32,8 @@ Collaborators: Leonel Joseph, Jeffrey Monsalve
         }
      }
 
+    To be able to execute the source code of HelloWorldApp application, JDK is needed   in that case to compile it, to get the class file. Once the HelloWorldApp is        converted into class file and the Bytecodes, JRE can be used to execute the program. Lastly, If the program HelloWorldApp is written in Windows, with the            Bytecode, there is no need to write another application, we can use execute the HelloWorldApp Bytecode file on Linux by using the JVM. 
+
 
 4. Modify the document at least twice each person to make it better and show your competency to do version control using github.
 
