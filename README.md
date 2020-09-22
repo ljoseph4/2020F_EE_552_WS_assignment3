@@ -21,7 +21,19 @@ Collaborators: Leonel Joseph, Jeffrey Monsalve
 
 3. With the help of the code for Hello World program in Java (you can copy code with citation), explain when this program needs JDK (and not JRE and JVM), JRE (and not JVM) and JVM.
 
-    
+     **
+    * The HelloWorldApp class implements an application that
+    * simply prints "Hello World!" to standard output.
+    */
+    class HelloWorldApp {
+
+    public static void main(String[] args) {
+
+    System.out.println("Hello World!"); // Display the string.
+        }
+     }
+
+    To be able to execute the source code of HelloWorldApp application, JDK is needed   in that case to compile it, to get the class file. Once the HelloWorldApp is converted into class file and the Bytecodes, JRE can be used to execute the program. Lastly, If the program HelloWorldApp is written in Windows, with the Bytecode, there is no need to write another application, we can use execute the HelloWorldApp Bytecode file on Linux by using the JVM. 
 
     
 4. Modify the document at least twice each person to make it better and show your competency to do version control using github.
